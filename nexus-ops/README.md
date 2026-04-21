@@ -283,4 +283,4 @@ cd frontend && npm install && npm run dev
 - All components are decoupled — swap LocalStack for real AWS in one line
 - Self-healing is demonstrated live if you force a failure (see above)
 
-**Good luck! 🚀**
+
